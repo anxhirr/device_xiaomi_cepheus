@@ -110,3 +110,6 @@ ro.surface_flinger.protected_contents=true
 
 # WiFi
 wifi.interface=wlan0
+
+ro.spark.status=UnOfficial
+ro.spark.maintainer=anxhi
